@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/atoyegbe/atoyegbe.github.io/portfolio/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/atoyegbe/atoyegbe.github.io/portfolio/static/js/main.d819d159.chunk.js",
+    "main.js.map": "/atoyegbe/atoyegbe.github.io/portfolio/static/js/main.d819d159.chunk.js.map",
+    "runtime-main.js": "/atoyegbe/atoyegbe.github.io/portfolio/static/js/runtime-main.de8315f9.js",
+    "runtime-main.js.map": "/atoyegbe/atoyegbe.github.io/portfolio/static/js/runtime-main.de8315f9.js.map",
+    "static/js/2.374611a8.chunk.js": "/atoyegbe/atoyegbe.github.io/portfolio/static/js/2.374611a8.chunk.js",
+    "static/js/2.374611a8.chunk.js.map": "/atoyegbe/atoyegbe.github.io/portfolio/static/js/2.374611a8.chunk.js.map",
+    "static/js/3.e511dfbf.chunk.js": "/atoyegbe/atoyegbe.github.io/portfolio/static/js/3.e511dfbf.chunk.js",
+    "static/js/3.e511dfbf.chunk.js.map": "/atoyegbe/atoyegbe.github.io/portfolio/static/js/3.e511dfbf.chunk.js.map",
+    "index.html": "/atoyegbe/atoyegbe.github.io/portfolio/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/atoyegbe/atoyegbe.github.io/portfolio/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.374611a8.chunk.js.LICENSE.txt": "/atoyegbe/atoyegbe.github.io/portfolio/static/js/2.374611a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de8315f9.js",
+    "static/js/2.374611a8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d819d159.chunk.js"
+  ]
+}
